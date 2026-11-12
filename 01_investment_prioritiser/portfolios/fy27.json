@@ -1,0 +1,101 @@
+{
+  "name": "FY27 global store portfolio",
+  "capex_budget": 9000000,
+  "delivery_slots": 6,
+  "candidates": [
+    {
+      "id": "LDN-FLAG",
+      "name": "London flagship relocation",
+      "market": "UK",
+      "format": "flagship",
+      "strategic_fit": 0.95,
+      "feasibility": 0.70,
+      "capacity_fit": 0.60,
+      "must_do": false,
+      "note": "Brand halo site, high strategic fit but heavy capital and delivery load"
+    },
+    {
+      "id": "PAR-MALL",
+      "name": "Paris La Defense mall",
+      "market": "France",
+      "format": "mall_standard",
+      "strategic_fit": 0.80,
+      "feasibility": 0.85,
+      "capacity_fit": 0.80,
+      "must_do": false
+    },
+    {
+      "id": "MUC-MALL",
+      "name": "Munich centre mall",
+      "market": "Germany",
+      "format": "mall_standard",
+      "strategic_fit": 0.75,
+      "feasibility": 0.80,
+      "capacity_fit": 0.85,
+      "must_do": false
+    },
+    {
+      "id": "MAD-COMP",
+      "name": "Madrid compact city",
+      "market": "Spain",
+      "format": "compact_city",
+      "strategic_fit": 0.70,
+      "feasibility": 0.75,
+      "capacity_fit": 0.85,
+      "must_do": false
+    },
+    {
+      "id": "AMS-COMP",
+      "name": "Amsterdam compact city",
+      "market": "Netherlands",
+      "format": "compact_city",
+      "strategic_fit": 0.65,
+      "feasibility": 0.60,
+      "capacity_fit": 0.70,
+      "must_do": false,
+      "note": "Lower feasibility: planning and landlord fit-out terms unresolved"
+    },
+    {
+      "id": "MIL-OUT",
+      "name": "Milan outlet",
+      "market": "Italy",
+      "format": "outlet",
+      "strategic_fit": 0.60,
+      "feasibility": 0.85,
+      "capacity_fit": 0.80,
+      "must_do": false
+    },
+    {
+      "id": "BCN-POP",
+      "name": "Barcelona seasonal pop-up",
+      "market": "Spain",
+      "format": "popup_seasonal",
+      "strategic_fit": 0.55,
+      "feasibility": 0.95,
+      "capacity_fit": 0.90,
+      "must_do": false,
+      "note": "Cheap and easy but the economics model shows it does not clear the hurdle"
+    },
+    {
+      "id": "DUB-COMP",
+      "name": "Dublin compact city",
+      "market": "Ireland",
+      "format": "compact_city",
+      "strategic_fit": 0.60,
+      "feasibility": 0.70,
+      "capacity_fit": 0.75,
+      "must_do": false
+    },
+    {
+      "id": "LDN-LEASE",
+      "name": "Manchester lease-break refit",
+      "market": "UK",
+      "format": "mall_standard",
+      "strategic_fit": 0.50,
+      "feasibility": 0.90,
+      "capacity_fit": 0.85,
+      "must_do": true,
+      "note": "Committed: lease renewal already signed, refit is contractual"
+    }
+  ]
+}

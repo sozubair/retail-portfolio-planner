@@ -1,0 +1,4 @@
+numpy==2.5.1
+pandas==3.0.5
+# optional, only for the Claude wording step:
+# anthropic
